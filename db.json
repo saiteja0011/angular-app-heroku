@@ -2,10 +2,10 @@
   "posts": [
     {
       "fname": "Sai",
-      "lname": "Harini",
+      "lname": "Harini rani",
       "gender": "Female",
       "email": "harini@gmail.com",
-      "mobile": "7898989898",
+      "mobile": "7898989899",
       "id": 6
     },
     {
@@ -47,22 +47,6 @@
       "email": "sairam@gmail.com",
       "mobile": "9898989898",
       "id": 12
-    },
-    {
-      "fname": "Rani",
-      "lname": "Singh",
-      "gender": "Female",
-      "email": "rani@gmail.com",
-      "mobile": "8787678988",
-      "id": 13
-    },
-    {
-      "fname": "Kiran",
-      "lname": "Kumar",
-      "gender": "Male",
-      "email": "kumar@gmail.com",
-      "mobile": "8888888999",
-      "id": 14
     }
   ],
   "comments": [],
